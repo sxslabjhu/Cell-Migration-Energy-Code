@@ -1,0 +1,9 @@
+$PARAM
+  CFL = 0.1
+  nu  = .05
+  bk  = 0.0
+  vco = 1.
+  ntmax = 80000
+  nfreq = 100
+  dlt   = 0.0005
+$END
